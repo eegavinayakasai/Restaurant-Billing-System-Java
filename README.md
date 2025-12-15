@@ -19,14 +19,14 @@ Object-Oriented Programming principles.
 - Console I/O
 
 ## Project Structure
-src/
+```src/
 └── restaurantbillingsystem/
-├── Main.java
-├── Menu.java
-├── MenuItem.java
-├── OrderItem.java
-└── Bill.java
-
+    ├── Main.java
+    ├── Menu.java
+    ├── MenuItem.java
+    ├── OrderItem.java
+    └── Bill.java
+```
 ## How to Run
 1. Clone the repository
 2. Open the project in IntelliJ IDEA / Eclipse
